@@ -1,22 +1,22 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://deepcoder.co.uk/" target="_blank" rel="noreferrer"><img src="https://deepcoder.co.uk/assets/images/banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://deepcoder.co.uk" target="_blank" rel="noreferrer">StefCodes</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Developer 💻, Presenter 📻, and Photographer 📷!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love everything computers and the world can offer and do.
 
 ### 🤝 Connect with me:
 
-<a href="https://deepcoder.co.uk"> Website <img align="left" src="https://deepcoder.co.uk/images/transparent_logo.png" alt="Website" width="21px"/></a>
-<a href="https://deepradio.co.uk"> Radio <img align="left" src="https://deepcoder.co.uk/images/transparent_logo.png" alt="Radio" width="21px"/></a>
-<a href="https://deepradio.co.uk/discord"> DC <img align="left" src="https://deepcoder.co.uk/images/transparent_logo.png" alt="DC" width="21px"/></a>
+<a href="https://deepcoder.co.uk"> Website <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="Website" width="21px"/></a>
+<a href="https://deepradio.co.uk"> Radio <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="Radio" width="21px"/></a>
+<a href="https://deepradio.co.uk/discord"> DC <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="DC" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
