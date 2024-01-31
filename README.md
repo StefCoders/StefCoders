@@ -14,9 +14,8 @@ I love everything computers and the world can offer and do.
 
 ### 🤝 Connect with me:
 
-<a href="https://deepcoder.co.uk"> Website <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="Website" width="21px"/></a>
-<a href="https://deepradio.co.uk"> Radio <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="Radio" width="21px"/></a>
-<a href="https://deepradio.co.uk/discord"> DC <img align="left" src="https://deepcoder.co.uk/assets/images/transparent_logo.png" alt="DC" width="21px"/></a>
+<a href="https://stefcodes.co.uk"> Website </a>
+<a href="https://deepradio.co.uk"> Radio </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -61,5 +60,3 @@ I love everything computers and the world can offer and do.
 [![stefcoders's github stats](https://github-readme-stats.vercel.app/api?username=stefcoders)](https://github.com/StefCoders)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefcoders&layout=compact)](https://github.com/stefcoders)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=stefcoders.github)](https://www.yushi.dev/)
