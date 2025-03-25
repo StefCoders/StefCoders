@@ -8,7 +8,7 @@ I'm a Developer and a Radio Presenter
 
 I currently own two radio stations.
 
-<a href="https://moinestifm.ro">- Moinesti FM </a
+<a href="https://moinestifm.ro">- Moinesti FM </a>
 <br>
 <a href="https://deepradio.ro">- DeepRadio </a>
 
