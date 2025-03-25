@@ -1,16 +1,16 @@
-<p align="center">
-  <a href="https://deepcoder.co.uk/" target="_blank" rel="noreferrer"><img src="https://deepcoder.co.uk/assets/images/banner.png" alt="my banner"></a>
-</p>
-
-<h3 align="center">
-Hi there, I'm <a href="https://deepcoder.co.uk" target="_blank" rel="noreferrer">StefCodes</a> 👋
-</h3>
+<h1 align="center">
+Hi there, I'm <a href="https://stefcodes.co.uk" target="_blank" rel="noreferrer">StefCodes</a> 👋
+</h1>
 
 <h2 align="center">
-I'm a Developer 💻, Presenter 📻, and Photographer 📷!
+I'm a Developer and a Radio Presenter
 </h2> 
 
-I love everything computers and the world can offer and do.
+I currently own two radio stations.
+
+<a href="https://moinestifm.ro">- Moinesti FM </a
+<br>
+<a href="https://deepradio.ro">- DeepRadio </a>
 
 ### 🤝 Connect with me:
 
@@ -21,15 +21,12 @@ I love everything computers and the world can offer and do.
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- My new radio site
-- My CSS & JS skills
+- Building my radio stations
 
 ## 🌱 I'm currently learning
 
-- Vue.JS
-- More Bootstrap
-- Node.JS
+- React
+- Typescript
   
 ## 💼 Technical Skills
 
@@ -53,10 +50,11 @@ I love everything computers and the world can offer and do.
 
 ## 📝 Latest Projects
 
-- [DeepRadio](https://deepradio.co.uk)
+- [DeepRadio](https://deepradio.ro)
+- [Moinesti FM](https://moinestifm.ro)
 
 ## 📈 GitHub Stats 
 
 [![stefcoders's github stats](https://github-readme-stats.vercel.app/api?username=stefcoders)](https://github.com/StefCoders)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefcoders&layout=compact)](https://github.com/stefcoders)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefcoders&layout=compact)](https://github.com/StefCoders)
