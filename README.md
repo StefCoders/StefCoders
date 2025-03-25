@@ -14,8 +14,7 @@ I currently own two radio stations.
 
 ### 🤝 Connect with me:
 
-<a href="https://stefcodes.co.uk"> Website </a>
-<a href="https://deepradio.co.uk"> Radio </a>
+<a href="mailto:stefan@stefcodes.co.uk"> Send an email! </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
